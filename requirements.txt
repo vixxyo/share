@@ -1,6 +1,0 @@
-#For this project of rock, paper, scissors game, no need to install any additional libraries. The code uses only built-in Python libraries
-#foloowing are:
-# 1 random
-# 2 time
-# 3 unittest
-# 4 mock
